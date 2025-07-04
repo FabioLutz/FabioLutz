@@ -3,6 +3,8 @@
 - 📚 Estudante de Engenharia da Computação no UNASP-SP.
 - 🧑‍💻 Desenvolvedor Full Stack
 
+Eu uso uma conta secundária para colocar outras coisas, como testes, estudos, trabalhos de faculdade etc. Você pode acessá-la por aqui: https://github.com/FabioLutz2
+
 ## Habilidades
 
 - Linguagem
