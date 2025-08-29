@@ -1,4 +1,4 @@
-# Olá! Eu sou o Fabio
+# 👋 Olá! Eu sou o Fabio
 
 - 📚 Estudante de Engenharia da Computação no UNASP-SP.
 - 🧑‍💻 Desenvolvedor Back End
